@@ -9,8 +9,11 @@ ShopBack AutoFill
 Make sure mongoDB is running in local on port 27017
 
 $ git clone https://github.com/shiva404/shopBackAutoFill
+
 $ cd shopBackAutoFill
+
 $ npm install
+
 $ node bin/www
 
 ###Testing
